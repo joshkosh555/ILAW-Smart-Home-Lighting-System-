@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "772626184479",
+    "firebase_url": "https://ilaw-829b1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ilaw-829b1",
+    "storage_bucket": "ilaw-829b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772626184479:android:09975f3c77f550983dd82a",
+        "android_client_info": {
+          "package_name": "com.example.ilawpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsLZshkbFFmxhbl-ItrlbwDUCDtCaEN8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
